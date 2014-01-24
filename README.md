@@ -1,4 +1,4 @@
-RF24Util
-========
+Radio Utilities
+===============
 
-Utility for RF24
+Utility for sending data via Radio Frequency devices
